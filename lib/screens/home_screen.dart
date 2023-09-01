@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_social_media_ui/screens/search_screen.dart';
 
-import '../models/models.dart';
-import '../widgets/widgets.dart';
 
 class HomeScreen extends StatefulWidget {
   static const routeName = '/';
